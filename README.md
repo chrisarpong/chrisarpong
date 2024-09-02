@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @chrisarpong
+# 👋 Hi, I’m christian sarpong
 
 - 👀 I’m interested in solving real-world problems through coding and constantly expanding my knowledge in technology.
 - 🌱 I’m currently learning Front-End development, focusing on HTML, CSS, JavaScript, PHP, and React.
