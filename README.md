@@ -1,7 +1,7 @@
 # 👋 Hi, I’m christian sarpong
 
 - 👀 I’m interested in solving real-world problems through coding and constantly expanding my knowledge in technology.
-- 🌱 I’m currently learning Front-End development, focusing on HTML, CSS, JavaScript, PHP, and React.
+- 🌱 I’m currently learning Front-End development, focusing on HTML, CSS, JavaScript, PHP, and React and with this all i wish to be a Software Engineer. 
 - 💞️ I’m looking to collaborate with anyone who shares a passion for coding or can help me grow my skills in the tech world. I’m also open to learning from those with expertise in various aspects of technology.
 - 📚 I have a deep interest in personal finance, and I enjoy reading books on the subject.
 - 📫 How to reach me: Feel free to contact me at ........
